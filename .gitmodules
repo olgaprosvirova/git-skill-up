@@ -1,3 +1,4 @@
 [submodule "git-skill-up-external-lib"]
 	path = git-skill-up-external-lib
 	url = https://github.com/olgaprosvirova/git-skill-up-external-lib
+	branch = develop
